@@ -6,9 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-    8 Rules For Learning to Code in 2025...and should you?
-    https://www.youtube.com/watch?v=EMWNZtCYg5s
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on becoming a better Computer Scientist by deep diving in Data Science and AI
+  - 8 Rules For Learning to Code in 2025...and should you?
+  - https://www.youtube.com/watch?v=EMWNZtCYg5s
 - 🌱 I’m currently learning Probablity, Pyhon and Basics of Github
 - 👯 I’m looking to collaborate on everyone in My Course
 - 🤔 I’m looking for help with GitHub in General
