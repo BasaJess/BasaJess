@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   - 8 Rules For Learning to Code in 2025...and should you?
   - https://www.youtube.com/watch?v=EMWNZtCYg5s
 - 🌱 I’m currently learning Probablity, Pyhon and Basics of Github
+  - A nice set of Mathemathics Video tutorials is 2Blue1Brown: https://www.youtube.com/@3blue1brown
 - 👯 I’m looking to collaborate on everyone in My Course
 - 🤔 I’m looking for help with GitHub in General
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
