@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Not necessary
 - ⚡ Fun fact: I am interested in Aging Research and how my expertise can help
   - [Official Journal of the American Aging Association](https://link.springer.com/journal/11357/volumes-and-issues)
-  - [DNA test will reveal your unique ethnic background](https://www.myheritage.com/)   
+  - [DNA test will reveal your unique ethnic background](https://www.myheritage.com/)
+  - [AVIV Clinics Longevity Summit January 26, 2024]https://www.avivprotocol.com/2024_Longevity_Summit  
