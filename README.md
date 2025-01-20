@@ -20,13 +20,13 @@ Here are some ideas to get you started:
   - [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o)
 - 🌱 I’m currently learning Probablity, Pyhon and Basics of Github
   - A nice set of Mathemathics tutorials
-  - [2Blue1Brown](https://www.youtube.com/@3blue1brown)
-  - [The Moore-Penrose Pseudoinverse](https://images.app.goo.gl/x1Gvuqe3r2yek2DJ9)
-  - [The deeper meaning of matrix transpose](https://www.youtube.com/watch?v=g4ecBFmvAYU)
-  - [What is Linear Algebra? Basic Linear Algebra for Deep Learning](https://builtin.com/data-science/basic-linear-algebra-deep-learning)
+    - [2Blue1Brown](https://www.youtube.com/@3blue1brown)
+    - [The Moore-Penrose Pseudoinverse](https://images.app.goo.gl/x1Gvuqe3r2yek2DJ9)
+    - [The deeper meaning of matrix transpose](https://www.youtube.com/watch?v=g4ecBFmvAYU)
+    - [What is Linear Algebra? Basic Linear Algebra for Deep Learning](https://builtin.com/data-science/basic-linear-algebra-deep-learning)
 - 👯 I’m looking to collaborate on everyone in My Course
 - 🤔 I’m looking for help with GitHub in General
- - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY&t=16s)
+  - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY&t=16s)
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
 - 📫 How to reach me: email@jesusbasail.com
 - 😄 Pronouns: Not necessary
