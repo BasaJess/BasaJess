@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   - [What is Linear Algebra? Basic Linear Algebra for Deep Learning](https://builtin.com/data-science/basic-linear-algebra-deep-learning)
 - 👯 I’m looking to collaborate on everyone in My Course
 - 🤔 I’m looking for help with GitHub in General
+ - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY&t=16s)
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
 - 📫 How to reach me: email@jesusbasail.com
 - 😄 Pronouns: Not necessary
