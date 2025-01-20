@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on becoming a better Computer Scientist by deep diving in Data Science and AI
+  - [What Is Data Science?](https://builtin.com/data-science)
   - [8 Rules For Learning to Code in 2025...and should you?](https://www.youtube.com/watch?v=EMWNZtCYg5s)
   - [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o)
 - 🌱 I’m currently learning Probablity, Pyhon and Basics of Github
