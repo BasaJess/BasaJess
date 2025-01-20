@@ -25,6 +25,7 @@ Here are some ideas to get you started:
     - [What is Linear Algebra? Basic Linear Algebra for Deep Learning](https://builtin.com/data-science/basic-linear-algebra-deep-learning)
     - Probablity and Statistics
       - [Introductory Statistics, by Illowsky, Dean et al.](https://openstax.org/books/introductory-statistics-2e/pages/1-introduction)
+      - [UDEMY: Probability and Statistics for Data Science and Business Analitics](https://www.udemy.com/course/probability-and-statistics-complete-course/?couponCode=ST18MT12125AROWDUMMY)
   - Python:
     - [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o)
     - [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)
