@@ -23,6 +23,8 @@ Here are some ideas to get you started:
     - [The Moore-Penrose Pseudoinverse](https://images.app.goo.gl/x1Gvuqe3r2yek2DJ9)
     - [The deeper meaning of matrix transpose](https://www.youtube.com/watch?v=g4ecBFmvAYU)
     - [What is Linear Algebra? Basic Linear Algebra for Deep Learning](https://builtin.com/data-science/basic-linear-algebra-deep-learning)
+    - Probablity and Statistics
+      - [Introductory Statistics, by Illowsky, Dean et al](https://openstax.org/details/books/introductory-statistics-2e)
   - Python:
     - [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o)
     - [Edlitera helps through training programs in Python programming, data science, machine learning and data engineering](https://www.youtube.com/@edlitera)
