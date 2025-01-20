@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   - [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o)
 - 🌱 I’m currently learning Probablity, Pyhon and Basics of Github
   - A nice set of Mathemathics Video tutorials is [2Blue1Brown](https://www.youtube.com/@3blue1brown)
+  - [The Moore-Penrose Pseudoinverse](https://images.app.goo.gl/x1Gvuqe3r2yek2DJ9)
 - 👯 I’m looking to collaborate on everyone in My Course
 - 🤔 I’m looking for help with GitHub in General
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
