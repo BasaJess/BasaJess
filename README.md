@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     - [Matplotlib](https://matplotlib.org/stable/tutorials/images.html)
   - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY&t=16s)
 - 👯 I’m looking to collaborate on everyone in My Course
-  - [Slack Channel from Neue fische](neuefische-students.slack.com)
+  - [neuefische-students.slack.com](https://app.slack.com/client/TTHG21AH3)
 - 🤔 I’m looking for building a Network so we can help each other
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
 - 📫 How to reach me: email@jesusbasail.com
