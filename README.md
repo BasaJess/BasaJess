@@ -42,4 +42,5 @@ Here are some ideas to get you started:
   - [Official Journal of the American Aging Association](https://link.springer.com/journal/11357/volumes-and-issues)
   - [DNA test will reveal your unique ethnic background](https://www.myheritage.com/)
   - [AVIV Clinics Longevity Summit January 26, 2024](https://www.avivprotocol.com/2024_Longevity_Summit)
-  - [Lifespan Podcast by Dr. David Sinlcair](https://www.youtube.com/playlist?list=PLD5B7ZO3P953hrxL9yEvVeu5X43d6SB3h) 
+  - [Lifespan Podcast by Dr. David Sinlcair](https://www.youtube.com/playlist?list=PLD5B7ZO3P953hrxL9yEvVeu5X43d6SB3h)
+  - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave)
