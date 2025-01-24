@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for building a Network so we can help each other
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
 - 📫 How to reach me: email@jesusbasail.com
+  - [LinkedIn](https://www.linkedin.com/in/jesus-gonzalez-vazquez-ab8774129/)
 - 😄 Pronouns: Not necessary
 - ⚡ Fun fact: I am interested in Aging Research and how my expertise can help
   - [Official Journal of the American Aging Association](https://link.springer.com/journal/11357/volumes-and-issues)
