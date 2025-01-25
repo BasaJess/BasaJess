@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on becoming a better Computer Scientist by deep diving in Data Science and AI
   - [What Is Data Science?](https://builtin.com/data-science)
+  - [MrMimic's Data Science Roadmap repo](https://github.com/MrMimic/data-scientist-roadmap)
   - [8 Rules For Learning to Code in 2025...and should you?](https://www.youtube.com/watch?v=EMWNZtCYg5s)
 - 🌱 I’m currently learning: Mathemathics for Data Science and A.I., Probablity and Statistics, Pyhon and Basics of Github
   - A nice set of Mathemathics tutorials
