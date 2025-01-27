@@ -49,4 +49,5 @@ Here are some ideas to get you started:
   - [AVIV Clinics Longevity Summit January 26, 2024](https://www.avivprotocol.com/2024_Longevity_Summit)
   - [Lifespan Podcast by Dr. David Sinlcair](https://www.youtube.com/playlist?list=PLD5B7ZO3P953hrxL9yEvVeu5X43d6SB3h)
   - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave)
+  - [Morning Routine](https://www.youtube.com/watch?v=f7efsuQvS3I)
 https://dj-w3v04.eu1.hubspotlinks.com/Ctc/GI+113/dj-W3v04/VVCzg03flJ5zW1j4fzH2H3GMYW3GjFly5r5FTrN1c6sqv3m2ndW6N1vHY6lZ3lDW4jCyf04JTmLYN1cwVF5KnvTYVSvlrc1Lwg3XW6gpdkR14_GgWW1hVThV2BZVYsW7LNqWB4GCGwxW7SkTQ81CY8n0W8R_L8g1XdrNNW2kDSxf3BhChnN94K1V0dwDxpV2Ybmq164qxrW1V8JTs7xrlxTW8R7DT_6-bnHKW2sqjDX36vx9TW3ZQkqq455KzgW6J41qk9jb7LsW1z9T6n6KG0NwW6mnhpb99jGX4W8SJm203lYn8lW6VVmC68R6pK-W5M8sz-4rKhDJW8G1kyT7jySN7dJbBHd04
