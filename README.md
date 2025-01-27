@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   - [neuefische-students.slack.com](https://app.slack.com/client/TTHG21AH3)
 - 🤔 I’m looking for building a Network so we can help each other
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
+  - [Linux Bible](https://ia801302.us.archive.org/15/items/negus-c.-linux-bible-10ed-2020-negus-c.-linux-bible-10ed-2020/Negus%20C.%20Linux%20Bible%2010ed%202020Negus%20C.%20Linux%20Bible%2010ed%202020.pdf)
 - 📫 How to reach me:
   - email@jesusbasail.com
   - [LinkedIn](https://www.linkedin.com/in/jesus-gonzalez-vazquez-ab8774129/)
