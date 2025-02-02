@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everyone in My Course
   - [neuefische-students.slack.com](https://app.slack.com/client/TTHG21AH3)
 - 🤔 I’m looking for building a Network so we can help each other
+  - [Career Couching](https://async.neuefische.de/) 
 - 💬 Ask me about Mathemathics, Desk Side Support, Troubleshooting and IT in General
   - [Linux Bible](https://ia801302.us.archive.org/15/items/negus-c.-linux-bible-10ed-2020-negus-c.-linux-bible-10ed-2020/Negus%20C.%20Linux%20Bible%2010ed%202020Negus%20C.%20Linux%20Bible%2010ed%202020.pdf)
 - 📫 How to reach me:
