@@ -33,7 +33,10 @@ Here are some ideas to get you started:
     - [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)
     - [Edlitera helps through training programs in Python programming, data science, machine learning and data engineering](https://www.youtube.com/@edlitera)
     - [Matplotlib](https://matplotlib.org/stable/tutorials/images.html)
-  - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY&t=16s)
+  - SQL:
+    - [Joins explained](https://www.youtube.com/watch?v=2HVMiPPuPIM)
+  - Git
+    - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY&t=16s)
 - 👯 I’m looking to collaborate on everyone in My Course
   - [neuefische-students.slack.com](https://app.slack.com/client/TTHG21AH3)
 - 🤔 I’m looking for building a Network so we can help each other
