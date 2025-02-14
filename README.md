@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     - [Edlitera helps through training programs in Python programming, data science, machine learning and data engineering](https://www.youtube.com/@edlitera)
     - [Matplotlib](https://matplotlib.org/stable/tutorials/images.html)
     - [Find missing values in data with Pandas | Beginner tutorial](https://www.youtube.com/watch?v=p51jngaf0g4)
+    - [Seaborn Heatmap - How to Visualise Correlations and Data With Heatmaps in Python](https://www.youtube.com/watch?v=J7cd1-g1O7A)
   - SQL:
     - [Joins explained](https://www.youtube.com/watch?v=2HVMiPPuPIM)
   - Git
