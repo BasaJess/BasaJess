@@ -33,6 +33,7 @@ Here are some ideas to get you started:
     - [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)
     - [Edlitera helps through training programs in Python programming, data science, machine learning and data engineering](https://www.youtube.com/@edlitera)
     - [Matplotlib](https://matplotlib.org/stable/tutorials/images.html)
+    - [Find missing values in data with Pandas | Beginner tutorial](https://www.youtube.com/watch?v=p51jngaf0g4)
   - SQL:
     - [Joins explained](https://www.youtube.com/watch?v=2HVMiPPuPIM)
   - Git
