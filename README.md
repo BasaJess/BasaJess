@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   - [What Is Data Science?](https://builtin.com/data-science)
   - [MrMimic's Data Science Roadmap repo](https://github.com/MrMimic/data-scientist-roadmap)
   - [8 Rules For Learning to Code in 2025...and should you?](https://www.youtube.com/watch?v=EMWNZtCYg5s)
-  - [EDA Afficient way to hypothesis](https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation)
+  - [EDA Afficient path to hypothesis](https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation)
+  - [Data Science presentations advice](https://dataknowsall.com/blog/storytelling.html)
 - 🌱 I’m currently learning: Mathemathics for Data Science and A.I., Probablity and Statistics, Pyhon and Basics of Github
   - A nice set of Mathemathics tutorials
     - [2Blue1Brown](https://www.youtube.com/@3blue1brown)
